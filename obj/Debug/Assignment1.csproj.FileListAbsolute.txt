@@ -1,0 +1,11 @@
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Microsoft.Owin.dll
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Owin.dll
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\bin\Debug\Microsoft.Owin.xml
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\siddarth\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
